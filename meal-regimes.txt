@@ -1,3 +1,8 @@
+    
+     Step II: Stage meal-regimens.txt
+     Step III: View status of the repository, (don't commit now)
+     Step III: Add the below lines again.
+     
 Manhattan Zoo
 Zookeeper Intern Onboarding:
 Meal Guidelines
@@ -16,3 +21,8 @@ Directions: Empty bags over meadow area during designated times
 Meal: 1 bag animal pellets, 1 bag dried fruit, 1/2 bag cashews, 5 carrots, 3 stalks kale
 Times: 8:00 am
 Directions: disperse contents throughout Chinchilla habitat
+
+4. Poison Dart Frogs
+Meal: 1 bag small crickets
+Times: 6:00 am
+Directions: empty bag in frog habitat once daily. Do not touch frogs! Extremely poisonous.
